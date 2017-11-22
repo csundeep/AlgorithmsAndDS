@@ -1,0 +1,12 @@
+Algorithms/bin/
+Algorithms/target/
+Algorithms/.settings/
+Algorithms/.classpath
+Algorithms/.project
+
+DataStructures/bin/
+DataStructures/target/
+DataStructures/.settings/
+DataStructures/.classpath
+DataStructures/.project
+
